@@ -128,3 +128,6 @@ Agner Fog
 
 Daniel Lemire (optimization, general)
 - https://lemire.me/blog/
+
+Pytorch (pytorch, AI/ML)
+- https://pytorch.org/
